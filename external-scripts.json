@@ -11,5 +11,7 @@
   "hubot-shipit",
   "hubot-heroku-keepalive",
   "hubot-mixpanel",
+  "hubot-fliptable",
   "hubot-chicken-dance"
 ]
+
